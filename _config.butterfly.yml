@@ -44,8 +44,8 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://www.pexels.com/zh-cn/photo/25949813/
-  effect: false
+  img: https://images.pexels.com/photos/21050507/pexels-photo-21050507.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load
+  effect: true
 
 # Disable all banner image
 disable_top_img: false
