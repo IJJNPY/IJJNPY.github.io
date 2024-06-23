@@ -280,3 +280,26 @@
   -ms-transform: scale(0.5);
   -o-transform: scale(0.5);
 }
+
+/* 设置文字内容 :nth-child(1)的作用是选择第几个 */
+.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(1):before {
+  content: '输入QQ号会自动获取昵称和头像🐧';
+}
+
+.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(2):before {
+  content: '收到回复将会发送到您的邮箱📧';
+}
+
+/* 个人信息卡片背景图 */
+[data-theme="light"] #aside-content > .card-widget.card-info {
+  background-image: url(https://cdn.pixabay.com/photo/2024/03/24/17/10/background-8653526_640.jpg);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
+[data-theme="dark"] #aside-content > .card-widget.card-info {
+  background-image: url(https://cdn.pixabay.com/photo/2024/03/24/17/10/background-8653526_640.jpg);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
