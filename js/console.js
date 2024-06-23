@@ -7,21 +7,33 @@ function createtime1() {
     var dnum = Math.floor(days);
 
     var ascll = [
-        `欢迎来到Fomalhaut🥝の小家!`,
-        `Future is now 🍭🍭🍭`,
-        `
-        
-███████  ██████  ███    ███  █████  ██      ██   ██  █████  ██    ██ ████████ 
-██      ██    ██ ████  ████ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-█████   ██    ██ ██ ████ ██ ███████ ██      ███████ ███████ ██    ██    ██    
-██      ██    ██ ██  ██  ██ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-██       ██████  ██      ██ ██   ██ ███████ ██   ██ ██   ██  ██████     ██   
-                                              
+        `Welcome to IJJNPY's Home
+        `,
+        `                                                                                                      
+                                                                                                                   
+IIIIIIIIII          JJJJJJJJJJJ        JJJJJJJJJJJNNNNNNNN        NNNNNNNNPPPPPPPPPPPPPPPPP   YYYYYYY       YYYYYYY
+I::::::::I          J:::::::::J        J:::::::::JN:::::::N       N::::::NP::::::::::::::::P  Y:::::Y       Y:::::Y
+I::::::::I          J:::::::::J        J:::::::::JN::::::::N      N::::::NP::::::PPPPPP:::::P Y:::::Y       Y:::::Y
+II::::::II          JJ:::::::JJ        JJ:::::::JJN:::::::::N     N::::::NPP:::::P     P:::::PY::::::Y     Y::::::Y
+  I::::I              J:::::J            J:::::J  N::::::::::N    N::::::N  P::::P     P:::::PYYY:::::Y   Y:::::YYY
+  I::::I              J:::::J            J:::::J  N:::::::::::N   N::::::N  P::::P     P:::::P   Y:::::Y Y:::::Y   
+  I::::I              J:::::J            J:::::J  N:::::::N::::N  N::::::N  P::::PPPPPP:::::P     Y:::::Y:::::Y    
+  I::::I              J:::::j            J:::::j  N::::::N N::::N N::::::N  P:::::::::::::PP       Y:::::::::Y     
+  I::::I              J:::::J            J:::::J  N::::::N  N::::N:::::::N  P::::PPPPPPPPP          Y:::::::Y      
+  I::::I  JJJJJJJ     J:::::JJJJJJJJ     J:::::J  N::::::N   N:::::::::::N  P::::P                   Y:::::Y       
+  I::::I  J:::::J     J:::::JJ:::::J     J:::::J  N::::::N    N::::::::::N  P::::P                   Y:::::Y       
+  I::::I  J::::::J   J::::::JJ::::::J   J::::::J  N::::::N     N:::::::::N  P::::P                   Y:::::Y       
+II::::::IIJ:::::::JJJ:::::::JJ:::::::JJJ:::::::J  N::::::N      N::::::::NPP::::::PP                 Y:::::Y       
+I::::::::I JJ:::::::::::::JJ  JJ:::::::::::::JJ   N::::::N       N:::::::NP::::::::P              YYYY:::::YYYY    
+I::::::::I   JJ:::::::::JJ      JJ:::::::::JJ     N::::::N        N::::::NP::::::::P              Y:::::::::::Y    
+IIIIIIIIII     JJJJJJJJJ          JJJJJJJJJ       NNNNNNNN         NNNNNNNPPPPPPPPPP              YYYYYYYYYYYYY    
+                                                                                                                   
+                                                                
 `,
         "小站已经苟活",
         dnum,
         "天啦!",
-        "©2022 By Fomalhaut",
+        "©2024 By IJJNPY",
     ];
 
     setTimeout(
@@ -42,31 +54,16 @@ function createtime1() {
 createtime1();
 
 function createtime2() {
-    var ascll2 = [`NCC2-036`, `调用前置摄像头拍照成功，识别为「大聪明」`, `Photo captured: `, ` 🤪 `];
-
-    setTimeout(
-        console.log.bind(
-            console,
-            `%c ${ascll2[0]} %c ${ascll2[1]} %c \n${ascll2[2]} %c\n${ascll2[3]}`,
-            "color:white; background-color:#10bcc0",
-            "",
-            "",
-            'background:url("https://unpkg.zhimg.com/anzhiyu-assets@latest/image/common/tinggge.gif") no-repeat;font-size:450%'
-        )
-    );
-
-    setTimeout(console.log.bind(console, "%c WELCOME %c 欢迎光临，大聪明", "color:white; background-color:#23c682", ""));
-
     setTimeout(
         console.warn.bind(
             console,
-            "%c ⚡ Powered by Fomalhaut🥝 %c 你正在访问Fomalhaut🥝の小家",
+            "%c ⚡ Powered by IJJNPY %c 你正在访问IJJNPYの小家",
             "color:white; background-color:#f0ad4e",
             ""
         )
     );
 
-    setTimeout(console.log.bind(console, "%c W23-12 %c 系统监测到你已打开控制台", "color:white; background-color:#4f90d9", ""));
+    setTimeout(console.warn.bind(console, "%c W23-12 %c 系统监测到你已打开控制台", "color:white; background-color:#4f90d9", ""));
     setTimeout(
         console.warn.bind(console, "%c S013-782 %c 你现在正处于监控中", "color:white; background-color:#d9534f", "")
     );
