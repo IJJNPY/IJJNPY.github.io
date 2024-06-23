@@ -33,7 +33,7 @@ IIIIIIIIII     JJJJJJJJJ          JJJJJJJJJ       NNNNNNNN         NNNNNNNPPPPPP
         "小站已经苟活",
         dnum,
         "天啦!",
-        "©2024 By IJJNPY",
+        "©2024 By IJJNPY"
     ];
 
     setTimeout(
