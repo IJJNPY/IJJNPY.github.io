@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>第一篇文章</title>
-      <link href="/2022/10/29/2022-10-28-The_First_Post/"/>
-      <url>/2022/10/29/2022-10-28-The_First_Post/</url>
+      <title>Twikoo评论系统配置流程(基于Vercel)</title>
+      <link href="/2024/06/26/2024-06-25-Twikoo%E9%83%A8%E7%BD%B2%E8%B8%A9%E5%9D%91/"/>
+      <url>/2024/06/26/2024-06-25-Twikoo%E9%83%A8%E7%BD%B2%E8%B8%A9%E5%9D%91/</url>
       
-        <content type="html"><![CDATA[<h2 id="nmsl"><a href="#nmsl" class="headerlink" title="nmsl"></a>nmsl</h2><p>what can I say<br><a href="https://www.fomal.cc/">https://www.fomal.cc/</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="创建Mongodb-Atlas数据库"><a href="#创建Mongodb-Atlas数据库" class="headerlink" title="创建Mongodb Atlas数据库"></a>创建Mongodb Atlas数据库</h2><h4 id="1、类型选择Share"><a href="#1、类型选择Share" class="headerlink" title="1、类型选择Share"></a>1、类型选择Share</h4><h4 id="2、连接方式选择driver"><a href="#2、连接方式选择driver" class="headerlink" title="2、连接方式选择driver"></a>2、连接方式选择driver</h4><p><img src="https://cdn.statically.io/gh/IJJNPY/Picture_bed/main/img/Mongodb%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F%E9%80%89%E6%8B%A9.png" alt="选择Driver连接模式"></p><h4 id="3、复制mongodb的连接码"><a href="#3、复制mongodb的连接码" class="headerlink" title="3、复制mongodb的连接码"></a>3、复制mongodb的连接码</h4><p><img src="https://cdn.statically.io/gh/IJJNPY/Picture_bed/main/img/Mongodb%E8%BF%9E%E6%8E%A5%E5%AF%86%E9%92%A5.png" alt="复制MongoDB连接密钥"></p><h2 id="使用Vercel部署Twikoo服务"><a href="#使用Vercel部署Twikoo服务" class="headerlink" title="使用Vercel部署Twikoo服务"></a>使用Vercel部署Twikoo服务</h2><p>what can I say<br><a href="https://www.fomal.cc/">https://www.fomal.cc/</a></p>]]></content>
       
       
       <categories>
           
-          <category> test </category>
+          <category> 踩坑 </category>
           
       </categories>
       
